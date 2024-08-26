@@ -1,2 +1,2 @@
 # PyBlog
- Um blog simples feito em HTML, CSS e JavaScript.
+ Um blog simples e estático usando HTML, CSS e JavaScript.
